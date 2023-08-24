@@ -1,5 +1,8 @@
-Here you can say lots of fun things about your site.
+# A Little Bit About Me 
+- My name is Nellie.
+- I am 28 years old.
+- I have an orange cat named Theo. [^1]
+- I am getting my masters in statistics at NC State.
 
-Maybe say a some things about yourself.
 
-Or maybe what you plan to blog about.
+  [^1]: Also known as buddy, smush, squishapotamus rex, perfect angel baby, etc.
