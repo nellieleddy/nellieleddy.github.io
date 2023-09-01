@@ -5,7 +5,7 @@
 - I have an orange cat named Theo. [^1]
 - I am getting my masters in statistics at NC State.
 
-| ![me and theo.jpeg](https://github.com/nellieleddy/nellieleddy.github.io/assets/143115958/698d1983-f5b9-499e-b2b7-97a2796c2958) | 
+| ![me and theo.jpeg](https://github.com/nellieleddy/nellieleddy.github.io/assets/143115958/698d1983-f5b9-499e-b2b7-97a2796c2958){width = 50%, height = 50%} | 
 |:--:| 
 | *me + theo 😙* |
 
