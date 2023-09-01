@@ -5,7 +5,7 @@
 - I have an orange cat named Theo. [^1]
 - I am getting my masters in statistics at NC State.
 
-  ![This is me!]
+![me and theo](https://github.com/nellieleddy/nellieleddy.github.io/assets/143115958/698d1983-f5b9-499e-b2b7-97a2796c2958)
 
   ## What Are We Doing Here?
   While this blog is **required** for one of my classes, I do hope to accomplish a few things in addition to just completing an  assignment. Namely:
