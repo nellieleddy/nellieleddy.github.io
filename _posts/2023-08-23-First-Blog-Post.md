@@ -33,7 +33,7 @@ to interested parties. I think the main difference comes from statisticians gene
 experiments, and data scientists generally working with existing data structures.
 
 Personally, I think I align more as a data scientist at the moment. My first class for my masters program here at State
-was ST555 SAS programming and I really enjoyed it. The bulk of the class consisted on learning how to read in and clean
+was ST555 SAS programming and I really enjoyed it. The bulk of the class consisted of learning how to read in and clean
 data. While I do have a strong math and statistics background as an Applied Mathematics major during my undergraduate
 career, I think I might be leaning more towards the data science side of things (mainly because I find the applied 
-statistical methods classes to be rather dry - and that seems to be the biggest difference between the two). 
+statistical methods classes to be rather dry - and that seems to be the biggest difference between the two program-wise). 
