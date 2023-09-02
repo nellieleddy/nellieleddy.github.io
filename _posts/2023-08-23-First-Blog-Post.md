@@ -1,6 +1,4 @@
 # ST558-601 First Blog Post
-## Created by: Nellie Leddy
-### Last Modified on: August 24th, 2023
 
 > What do you think being a data scientist is about?
 > 
