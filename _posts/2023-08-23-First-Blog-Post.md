@@ -30,7 +30,7 @@ There seems to be a lot of overlap between being a statisticain and a data scien
 comfortable interpreting and analyzing data, creating graphical vizualizations, and drawing conclusions based on the 
 data. This involves a similar skill set of using computer languages for analysis and being able to communicate results
 to interested parties. I think the main difference comes from statisticians generally collecting their own data through
-experiments and data scientists generally working with existing data structures.
+experiments, and data scientists generally working with existing data structures.
 
 Personally, I think I align more as a data scientist at the moment. My first class for my masters program here at State
 was ST555 SAS programming and I really enjoyed it. The bulk of the class consisted on learning how to read in and clean
