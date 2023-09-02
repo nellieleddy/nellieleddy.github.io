@@ -9,7 +9,7 @@
 |:--:| 
 | *me + theo 😙* |
 
-  # What Are We Doing Here?
+# What Are We Doing Here?
   
   While this blog is **required** for one of my classes, I do hope to accomplish a few things in addition to just completing an  assignment. Namely:
   
